@@ -1,8 +1,15 @@
-@ primero.s
+@   Programa	primero.s
+@   Instituto Tecnologico de Tijuana.
+@   Departamento de Sistemas y Computacion.
+@   Ingenieria en Sistemas Computacionales.
+
+@   Autor:Hernandez Fernandez Diana.
+@   Repositorio:https://github.com/DianaHFer/Programas
+@   Fecha de revision:Viernes 20 de Noviembre del 2020.
 @   from thinkingeek.com
 @   http://thinkingeek.com/2013/01/09/arm-assembler-raspberry-pi-chapter-1/
 @   Defines a main function that returns 2 as an exit code.
-@   Diana Hernandez Fernandez 
+
 
 	
 	.global main
